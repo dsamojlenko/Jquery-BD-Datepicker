@@ -1,0 +1,11 @@
+jQuery Business Days Datepicker
+===============================
+
+Wrapper for the jQuery UI datepicker that disables and accounts for holidays and weekends in calculating mindate.
+
+
+Inspiration from and thanks to:
+http://lucassmith.name/2008/11/add-business-days-to-a-date.html
+https://github.com/lsmith/addBusinessDays
+https://github.com/johnvpetersen/jQuery-Date-Picker-Business-Day-Filter
+
